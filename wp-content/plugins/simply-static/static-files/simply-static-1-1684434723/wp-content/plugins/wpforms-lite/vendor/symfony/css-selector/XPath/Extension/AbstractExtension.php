@@ -1,5 +1,0 @@
-<br>
-<b>Fatal error</b>:  Uncaught Error: Interface &quot;Symfony\Component\CssSelector\XPath\Extension\ExtensionInterface&quot; not found in D:\xampp\htdocs\wordpress\wp-content\plugins\wpforms-lite\vendor\symfony\css-selector\XPath\Extension\AbstractExtension.php:24
-Stack trace:
-#0 {main}
-  thrown in <b>D:\xampp\htdocs\wordpress\wp-content\plugins\wpforms-lite\vendor\symfony\css-selector\XPath\Extension\AbstractExtension.php</b> on line <b>24</b><br>
